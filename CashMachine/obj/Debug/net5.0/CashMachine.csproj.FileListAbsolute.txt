@@ -1,0 +1,12 @@
+C:\Users\Tony\source\repos\CashMachine\bin\Debug\net5.0\CashMachine.deps.json
+C:\Users\Tony\source\repos\CashMachine\bin\Debug\net5.0\CashMachine.dll
+C:\Users\Tony\source\repos\CashMachine\bin\Debug\net5.0\ref\CashMachine.dll
+C:\Users\Tony\source\repos\CashMachine\bin\Debug\net5.0\CashMachine.pdb
+C:\Users\Tony\source\repos\CashMachine\obj\Debug\net5.0\CashMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\CashMachine\obj\Debug\net5.0\CashMachine.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\CashMachine\obj\Debug\net5.0\CashMachine.AssemblyInfo.cs
+C:\Users\Tony\source\repos\CashMachine\obj\Debug\net5.0\CashMachine.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\CashMachine\obj\Debug\net5.0\CashMachine.dll
+C:\Users\Tony\source\repos\CashMachine\obj\Debug\net5.0\ref\CashMachine.dll
+C:\Users\Tony\source\repos\CashMachine\obj\Debug\net5.0\CashMachine.pdb
+C:\Users\Tony\source\repos\CashMachine\obj\Debug\net5.0\CashMachine.csproj.AssemblyReference.cache
